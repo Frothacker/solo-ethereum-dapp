@@ -1,0 +1,3 @@
+[submodule "solo-ethereum-submodule"]
+	path = solo-ethereum-submodule
+	url = https://github.com/Frothacker/solo-ethereum-submodule.git
